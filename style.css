@@ -96,10 +96,7 @@
   .music { grid-area: music; }
   
 
-
-
-
-
-.animated:hover { 
-  animation: animate__pulse 0.3s ease
-}
+  .animated:hover { 
+    animation: animate__pulse 0.3s ease
+  }
+  
